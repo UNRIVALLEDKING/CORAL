@@ -1,5 +1,5 @@
 streamlit
 pillow
-torch==1.13.1
-torchvision==0.14.1
+torch==2.7.1
+torchvision==0.18.1
 pytorch-grad-cam
