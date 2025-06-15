@@ -1,7 +1,7 @@
-streamlit==1.25.0
-torch==2.0.1
-torchvision==0.15.2
-pillow
-matplotlib
-numpy
+streamlit==1.35.0
+torch==2.2.2
+torchvision==0.17.2
+pillow==10.3.0
+numpy==1.24.4
+matplotlib==3.7.5
 pytorch-grad-cam==1.4.0
