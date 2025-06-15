@@ -1,15 +1,7 @@
-# UI
 streamlit==1.25.0
-
-# pull CPU-only PyTorch wheels
--f https://download.pytorch.org/whl/cpu/torch_stable.html
-torch==2.0.1+cpu
-torchvision==0.15.2+cpu
-
-# Grad-CAM
+torch==2.0.1
+torchvision==0.15.2
 pytorch-grad-cam==1.4.0
-
-# other deps
-numpy
 matplotlib
+numpy
 Pillow
