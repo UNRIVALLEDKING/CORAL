@@ -2,11 +2,6 @@ __pycache__/
 *.py[cod]
 *.so
 
-# Model weights and large files
-*.pth
-*.pt
-models/
-*.h5
 
 # Streamlit cache
 .streamlit/
