@@ -4,4 +4,5 @@ torchvision==0.15.2
 pillow
 numpy
 matplotlib
-pytorch-grad-cam==1.4.0
+pytorch-grad-cam==1.3.8
+
